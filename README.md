@@ -12,6 +12,12 @@ and then install using this link: [hlpugs.tf-needed-player-indicator.user.js](ht
 ## Changelog
 _____________________________________________
 
+
+#### 0.1.1
+
+* Fixed captain being recognized as a class for an added up player
+
+
 ### 0.1
 
 * Released (with CSS fixes so it should always be possible to select a class)
